@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stable Diffusion web UI
 A browser interface based on Gradio library for Stable Diffusion.
 
@@ -124,3 +125,7 @@ The documentation was moved from this README over to the project's [wiki](https:
 - CLIP interrogator idea and borrowing some code - https://github.com/pharmapsychotic/clip-interrogator
 - Initial Gradio script - posted on 4chan by an Anonymous user. Thank you Anonymous user.
 - (You)
+=======
+# novai
+AI作图本地部署
+>>>>>>> 8c601a5acfd8b345f0249f064a99c585e65d9b4e
